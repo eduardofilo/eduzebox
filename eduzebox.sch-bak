@@ -194,17 +194,6 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf" H 4300 1000 
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Micro_SD_Card J2
-U 1 1 5DDC37E6
-P 10125 1450
-F 0 "J2" H 10075 2167 50  0000 C CNN
-F 1 "Micro_SD_Card" H 10075 2076 50  0000 C CNN
-F 2 "Connector_Card:microSD_HC_Wuerth_693072010801" H 11275 1750 50  0001 C CNN
-F 3 "http://katalog.we-online.de/em/datasheet/693072010801.pdf" H 10125 1450 50  0001 C CNN
-	1    10125 1450
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:R R18
 U 1 1 5DDCB884
 P 8125 1250
@@ -353,7 +342,7 @@ Wire Wire Line
 Wire Wire Line
 	10925 2225 8975 2225
 $Comp
-L eduzebox:SNES_Connector X1
+L eduardofilo_symbols:SNES_Connector X1
 U 1 1 5DDDE2A7
 P 1500 2775
 F 0 "X1" H 1308 3340 50  0000 C CNN
@@ -364,7 +353,7 @@ F 3 "" H 1500 2575 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L eduzebox:SNES_Connector X2
+L eduardofilo_symbols:SNES_Connector X2
 U 1 1 5DDDF63E
 P 1500 4025
 F 0 "X2" H 1308 4590 50  0000 C CNN
@@ -1335,4 +1324,16 @@ F 3 "" H 1825 1250 50  0001 C CNN
 	1    1800 1150
 	1    0    0    1   
 $EndComp
+$Comp
+L eduardofilo_symbols:Micro_SD_Cd J2
+U 1 1 5E14CEB6
+P 10125 1550
+F 0 "J2" H 10075 2367 50  0000 C CNN
+F 1 "Micro_SD_Cd" H 10075 2276 50  0000 C CNN
+F 2 "" H 12175 2250 50  0001 C CNN
+F 3 "https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1" H 10125 1650 50  0001 C CNN
+	1    10125 1550
+	1    0    0    -1  
+$EndComp
+NoConn ~ 9225 1950
 $EndSCHEMATC

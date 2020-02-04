@@ -2,4 +2,5 @@
   (lib (name eduzebox)(type Legacy)(uri ${KIPRJMOD}/lib_sch/eduzebox.lib)(options "")(descr ""))
   (lib (name eduzebox-rescue)(type Legacy)(uri ${KIPRJMOD}/eduzebox-rescue.lib)(options "")(descr ""))
   (lib (name sk12d07vg4)(type Legacy)(uri ${KIPRJMOD}/lib_sch/sk12d07vg4.lib)(options "")(descr ""))
+  (lib (name eduardofilo_symbols)(type Legacy)(uri ${KIPRJMOD}/lib_sch/eduardofilo_symbols.lib)(options "")(descr ""))
 )

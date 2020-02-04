@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name eduzebox)(type KiCad)(uri ${KIPRJMOD}/lib_fp.pretty/eduzebox.pretty)(options "")(descr ""))
+  (lib (name eduardofilo_footprints)(type KiCad)(uri ${KIPRJMOD}/lib_fp.pretty/eduardofilo_footprints.pretty)(options "")(descr ""))
 )
