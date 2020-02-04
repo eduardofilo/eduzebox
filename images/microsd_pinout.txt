@@ -1,0 +1,11 @@
+# Pines de microSD
+
+## SPI Mode
+1: NC
+2: CS
+3: MOSI
+4: +3.3V
+5: SCK
+6: GND
+7: MISO
+8: NC

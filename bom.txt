@@ -1,0 +1,11 @@
+1x ATMEGA644P-20AU: https://lcsc.com/product-detail/Others_Microchip-Tech_ATMEGA644P-20AU_Microchip-Tech-ATMEGA644P-20AU_C219112.html
+1x lector microSD: https://lcsc.com/product-detail/Card-Sockets-Connectors_Korean-Hroparts-Elec-TF-04A_C145799.html
+1x diodo 1N4001: https://lcsc.com/product-detail/Diodes-General-Purpose_Shandong-Jingdao-Microelectronics-1N4001W_C162732.html
+1x barrel jack: https://lcsc.com/product-detail/New-Arrivals_XKB-Enterprise-DC-005-5A-2-0_C381116.html
+1x SCART connector: https://www.aliexpress.com/item/32997772379.html
+2x SNES connector: https://www.aliexpress.com/item/32828768824.html
+1x Crystal 28.6363MHz: https://lcsc.com/product-detail/DIP-Crystal-Resonators_Suzhou-Liming-Elec-49S-28-63636-20-20-A_C240948.html
+1x Slide switch: https://lcsc.com/product-detail/Toggle-Switches_SHOU-HAN-SK12D07VG4_C393937.html
+1x Condensador Tántalo 10uF: https://lcsc.com/product-detail/Tantalum-Capacitors_AVX_TAJA106K010RNJ_10uF-106-10-10V_C7177.html
+1x Condensador Tántalo 1uF: https://lcsc.com/product-detail/Tantalum-Capacitors_AVX_TAJA105K035RNJ_1uF-105-10-35V_C7176.html
+1x Regulador MCP1700: https://lcsc.com/product-detail/Low-Dropout-Regulators-LDO_MICROCHIP_MCP1700T-3302E-TT_MCP1700T-3302E-TT_C39051.html
